@@ -1,3 +1,4 @@
-# Hola mundo
+# Práctica 4.1. Primeros pasos con Unity
+## Parte 1
 
-Primer proyecto de Unity para DAM
+Se aprenden los tipos de GameObjects, se elabora una pequeña maqueta del sistema solar, y se ha modelado un escenario para un juego FPS, además de un rifle y un avión.
